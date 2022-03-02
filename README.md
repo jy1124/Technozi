@@ -1,5 +1,6 @@
 # Technozi
-> tracking and vaccine status using jsp
+> tracking and vaccine status using jsp.
+
 > This project is developed for studying jsp and understanding entity-control-boundary
 
 #requirement
